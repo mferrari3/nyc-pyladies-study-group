@@ -24,6 +24,9 @@ syntax and programming fundamentals, one exercise at a time.
 
 #### OTHER
 
+#### PyCon 2019
+https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ
+
 ## Add to this list (and take your first step to an open source contribution)
 The PyLadies website states: 
 > We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community
