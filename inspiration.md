@@ -11,7 +11,7 @@ Not sure what to work on? Look to this member-curated dynamic list of resources 
 * [JupyterLab is ready for users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) **Level:** Beginner
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) **Level:** Beginner; **Description**: Covers python
 syntax and programming fundamentals, one exercise at a time.
-* [Intro to web scraping with Python](https://github.com/antoniablair/pyladies_scraping_workshop) **Level:** Beginner; **Author:** Antonia Blair (NYC PyLadies Organizer)
+* [Intro to web scraping with Python](https://github.com/antoniablair/pyladies_scraping_workshop) **Level:** Beginner; **Description:** An intro to web scraping tutorial using Beautiful Soup. **Author:** Antonia Blair (NYC PyLadies Organizer)
 * [Google's Python Class](https://developers.google.com/edu/python/) **Level:** Beginner
 * [Exercism](https://exercism.io) **Level:** Beginner to Intermediate; **Description:** open-source, free coding platform that offers practice and mentorship on 50 different coding languages
 
@@ -34,6 +34,9 @@ syntax and programming fundamentals, one exercise at a time.
 
 #### OTHER
 * [Talk Python Podcast](https://talkpython.fm)  
+
+#### PyCon 2019
+https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ
 
 ## Add to this list (and take your first step to an open source contribution)
 The PyLadies website states: 
